@@ -10,8 +10,6 @@
 * [第二周](chapter/README.md)
    * [二分搜索模板及变体（上）](chapter2/2_1.md)
    * [二分搜索模板及变体（下）](chapter2/2_2.md)
-   * [排序数组常见算法](chapter2/2_3.md)
-       * cao.md
    * [二分搜索扩展题型](chapter2/2_4.md)
    * 排序数组常见算法
 
