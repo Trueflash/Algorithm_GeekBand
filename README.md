@@ -12,6 +12,10 @@
    2. [二分搜索模板及变体（下）](chapter2/2_2.md)
    3. [排序数组常见算法](chapter2/2_3.md)
    4. [二分搜索扩展题型](chapter2/2_4.md)
+* [第三周](chapter/README.md)
+   1. [二叉树简介及先序、中序、后序](chapter3/3_1.md)
+   2. [分治算法](chapter3/3_2.md)
+   3. [BFS与二叉搜索树](chapter3/3_3.md)
 
 
 传送门：[董老师源码地址](https://github.com/dongfeiwww/boolan)
